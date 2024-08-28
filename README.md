@@ -29,7 +29,7 @@ To run this application, you'll need:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/stopwatch-app.git
+    git clone https://github.com/sudharshan022/stopwatch-app.git
     ```
 2. **Navigate to the project directory**:
     ```bash
