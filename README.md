@@ -53,3 +53,19 @@ stopwatch-app/
 ├── style.css         # The stylesheet for the application
 ├── script.js         # JavaScript functionality for the stopwatch
 └── README.md         # Project documentation (this file)
+
+### Customization
+
+- **`style.css`**: Modify the color scheme, fonts, and button styles.
+- **`script.js`**: Update or add new features for the stopwatch functionality.
+- **`index.html`**: Adjust the layout or add new elements to the webpage.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or feedback, feel free to contact me at [your-medarisudharshan@gmail.com].
+
+
